@@ -12,7 +12,7 @@ Welcome to the source code repository for my personal portfolio website. This pr
 
 The portfolio website is hosted using GitHub Pages. You can view the live website at:
 
-[https://MagdaEkeya.github.io/portfolio/](https://MagdaEkeya.github.io/portfolio/)
+[https://github.com/MagdaEkeya/portfolio.git)
 
 To run the website locally:
 
