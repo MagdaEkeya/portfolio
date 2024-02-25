@@ -19,5 +19,5 @@ To run the website locally:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/MagdaEkeya/portfolio.html.git
+git clone https://github.com/MagdaEkeya/portfolio.git
 
